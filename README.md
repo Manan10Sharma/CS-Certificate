@@ -1,31 +1,9 @@
 # CS-Certificate
 
-# Experience Letter JPG.jpg
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# Git, GitLab, GitHub MTF Certificate.pdf
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# HP AI Certificate.pdf
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# HP Business Certificate.pdf
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# Oracle Java SE 21 Udemy Certificate.pdf
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# IELTS.pdf
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# MySQL Udemy Certificate.pdf
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# OpenWeaver JavaScript certificate.pdf
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# OpenWeaver 'Basics of JavaScript Programming' Bootcamp QR.png
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# OpenWeaver python certificate.pdf
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# OpenWeaver 'Basics of Python Programming' Bootcamp  QR.png
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# Python Development & DS MTF Certificate.pdf
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# Python Development MTF Certificate.pdf
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# RSCIT Certificate.pdf
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-# 
+📜 Programming Certificates Repository
+
+This repository contains verified certificates from various programming and computer science-related courses and training programs I have completed. These credentials demonstrate my commitment to continuous learning and development in areas such as Full Stack Development, Java, Python, Web Development, Git/GitHub, Data Structures & Algorithms, and other core programming skills.
+
+Each certificate reflects a specific area of expertise and practical experience gained through hands-on projects and assessments.
+
+Feel free to explore the certificates to learn more about my technical background.
